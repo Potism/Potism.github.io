@@ -13,14 +13,14 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-20 overflow-auto">
         I am a software developer based in Italy with a passion for web development.
          I love solving complex problems and turning them into efficient, high-speed, and reliable applications.
         </p>
 
         <br />
 
-        <p className="text-xl">
+        <p className="text-xl overflow-auto">
         In my previous roles, I have demonstrated my ability to rapidly develop and design web applications and websites that meet the specific needs of businesses.
          I believe that user-friendly and visually appealing designs are essential for a smooth and seamless user experience. 
          I have had the privilege of working with some of the most reputable brands in the industry,
