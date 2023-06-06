@@ -57,7 +57,7 @@ const Experience = () => {
       name="experience"
       className="bg-gradient-to-b from-black to-gray-400 w-full h-screen"
     >
-      <div className="max-w-screen-lg mx-auto p-8 flex flex-col justify-center w-full h-full text-white">
+      <div className="max-w-screen-lg mx-auto p-8 flex flex-col justify-center w-full h-max text-white">
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
             Stacks

@@ -19,7 +19,7 @@ const About = () => {
 
         <br />
 
-        <p className="text-md">
+        <p className="text-md text-clip">
         In my previous roles, I have demonstrated my ability to rapidly develop and design web applications and websites that meet the specific needs of businesses.
          I believe that user-friendly and visually appealing designs are essential for a smooth and seamless user experience. 
          I have had the privilege of working with some of the most reputable brands in the industry,
